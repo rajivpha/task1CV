@@ -1,14 +1,12 @@
+
 a:active{
 	color:white;
 }
-#navv{
-	height:100%;
-	 margin-left: 60px;
-	  padding-left: 90px;
-}
+
 .main
 {
 	padding-left: 50px;
 }
+
 #fontstyle
 {font-size:60px;color:dark;text-shadow:2px 2px 4px #000000;}
